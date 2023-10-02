@@ -1,16 +1,5 @@
-
-//criar um classificador de niveis de herói (xp)
-//variavel com nome e xp
-//xp <= 1000 = nivel Ferro
-//xp > 1000 & xp <= 2000 = nivel Bronze
-//xp > 2000 & xp <= 5000= nivel Prata 
-//xp > 5000 & xp <= 7000= nivel Ouro 
-//xp > 7000 & xp <= 8000= nivel Platina 
-//xp > 8000 & xp <= 9000= nivel Ascendente
-//xp > 9000 & xp <= 10000= nivel Imortal
-//xp > 10000 = nivel Radiante
-
-//saida o heroi xyz esta no nivel "ferro"
+//criar um classificador de Herois por nivel de Xp
+//Desafio proposto nas aulas de Estruturas de controle
 
 let nomeHeroi 
 let xpHeroi 
